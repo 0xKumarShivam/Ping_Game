@@ -1,2 +1,2 @@
-# Ping_Game
+# Ping_Game 🎲
 it's a dice game .
